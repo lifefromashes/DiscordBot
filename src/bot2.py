@@ -25,6 +25,8 @@ async def on_member_join(member):
 async def nine_nine(ctx):
     brooklyn_99_quotes = [
         'I\'m the human form of the 100 emoji.',
+        'Okay, no hard feelings, but I hate you.',
+        'The English language can not fully capture the depth and complexity of my thoughts.',
         'Bingpot!',
         (
             'Cool. Cool cool cool cool cool cool cool, '
